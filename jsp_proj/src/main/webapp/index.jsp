@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	안녕하세 나는 바보sss
+	안녕하세 나는 바보ssseee
 </body>
 </html>
