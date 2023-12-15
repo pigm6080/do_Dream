@@ -6,7 +6,13 @@
 <meta charset="UTF-8">
 <title>Insert title here</title>
 </head>
-<body>	
-	푸하하하하하 헤헤헤헤헤
+<body>
+	<%
+		int a = 20;
+		int b = 30;
+		int sum = a+b;
+	%>
+
+	<%=a %> + <%=b %> = <%=sum %>
 </body>
 </html>
