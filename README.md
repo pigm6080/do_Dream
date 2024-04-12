@@ -3,7 +3,6 @@
 
 ![image](https://github.com/pigm6080/do_Dream/assets/74187960/6e22e9a5-e1fd-4e50-9335-bd2d4bbdbe76)
 ![image](https://github.com/pigm6080/do_Dream/assets/74187960/068b8dcf-2e28-4cef-8718-3a8d5298af07)
-![image](https://github.com/pigm6080/do_Dream/assets/74187960/b3b78b84-6a71-470d-8701-72c9349d3e86)
 ![image](https://github.com/pigm6080/do_Dream/assets/74187960/e84669c4-637c-4b9a-9cfb-e78379d4a3f1)
 ![image](https://github.com/pigm6080/do_Dream/assets/74187960/bccb6743-c0b2-48c5-bbe3-d99c27848093)
 ![image](https://github.com/pigm6080/do_Dream/assets/74187960/dc8863a0-6c18-4d4b-a33d-77a176c9291a)
